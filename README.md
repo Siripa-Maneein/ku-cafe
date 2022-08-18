@@ -4,7 +4,7 @@
 
 ## Night Food
 
-| Item                     | Price    |
+| Night Food                     | Price(Baht)  |
 |:-------------------------|----------|
 | Cheese Ball              | 35       |
 | Banana Fritters          | 45       |
