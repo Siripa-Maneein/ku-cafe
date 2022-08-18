@@ -4,14 +4,15 @@
 
 ## Night Food
 
-| Night Food                     | Price (Baht)  |
-|:-------------------------|----------|
-| Cheese Ball              | 35       |
+| Night Food               | Price (Baht)  |
+|:-------------------------|----------:|
 | Banana Fritters          | 45       |
-| Sticky Chicken Wings     | 110      |
+| Cheese Ball              | 35       |
+| Popcorn Chicken          | 55       |
 | Pork Hot Dogs            | 55       |
 | Sausage Rolls            | 45       |
-| Popcorn Chicken          | 55       |
+| Sticky Chicken Wings     | 110      |
+
 
 ## About Us
 
