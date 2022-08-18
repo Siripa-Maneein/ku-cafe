@@ -6,18 +6,10 @@ Section1 | Section2 | Section3 |Section4 |[Beverages](#beverages)|
 ## Beverages
 | Beverages Menu                 | Price(Baht) |
 |:-------------------------|----------|
-| Water               | 7    |
-| Milk Tea(Cha-Yen)              | 10       |
-| Green tea              | 10       |
-| Cocoa              | 10       |
-| Baitoey Drink              | 10       |
-| Ovaltine              | 10       |
-| Pink Milk              | 10       |
-| Longan Juice             | 10       |
+| Baitoey Drink               | 10    |
+| Cocoa               | 10    |
 | Chrysanthemum Drink             | 10       |
-| Roselle Juice             | 10       |
-| Lemon tea             | 10       |
-
+| Ovaltine              | 10       |
 
 
 
