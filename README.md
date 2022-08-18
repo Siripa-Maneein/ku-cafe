@@ -16,6 +16,6 @@
 
 ## About Us
 
-| Name               | Role           | Github     |
-|:-------------------|----------------|------------|
-| Jindaporn Sookying | Breakfast Menu | @jindasy   |
+| Name               | Role      | Github     |
+|:-------------------|-----------|------------|
+| Jindaporn Sookying | Breakfast | @jindasy   |
