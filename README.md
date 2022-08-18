@@ -1,5 +1,5 @@
 # KU Cafe
-[Breakfast](#breakfast) | Section2 | Section3 |[Beverages](#beverages)| [Night Food](#night-food)
+[Breakfast](#breakfast) | [Lunch](#Lunch)  | Section3 |[Beverages](#beverages)| [Night Food](#night-food)
 
 ## Breakfast
 
@@ -13,7 +13,13 @@
 | Steamed buns   |            15 |
 | Tom luad moo   |            35 |
 
-
+## Lunch 
+| Lunch Menu           |  Price (Baht) |
+|:---------------------|---------------:|
+| Chicken Fried Rice      | 30    |
+| Grilled Cheese Sandwich | 25    |
+| Noodle                  | 30    |
+| Tuna Sandwich           | 25    |
 
 ## Beverages
 | Beverages Menu                 | Price(Baht) |
@@ -22,8 +28,6 @@
 | Cocoa                          | 10          |
 | Chrysanthemum Drink            | 10          |
 | Ovaltine                       | 10          |
-
-
 
 ## Night Food
 
@@ -36,11 +40,10 @@
 | Sausage Rolls            | 45       |
 | Sticky Chicken Wings     | 110      |
 
-
-
 ## About Us
 | Name               | Role      | Github           |
 |:-------------------|-----------|------------------|
 | Kulisara Wiangin      | Beverages | @kulisarawiangin |
 | Jindaporn Sookying    | Breakfast | @jindasy         |
 | Tanabodee Yambangyang |Night Food| @Tanabodee-Yambangyang |
+| Siripa Maneein | Lunch | @Siripa-Maneein |
