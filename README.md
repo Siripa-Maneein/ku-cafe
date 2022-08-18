@@ -4,7 +4,7 @@
 
 ## Night Food
 
-| Night Food                     | Price(Baht)  |
+| Night Food                     | Price (Baht)  |
 |:-------------------------|----------|
 | Cheese Ball              | 35       |
 | Banana Fritters          | 45       |
@@ -17,5 +17,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Tanabodee Yambangyang | Writer | @Tanabodee-Yambangyang |
+| Tanabodee Yambangyang |Night Food| @Tanabodee-Yambangyang |
 
