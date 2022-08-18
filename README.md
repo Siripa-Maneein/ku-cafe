@@ -1,12 +1,12 @@
 # KU Cafe
-[Beverages](#beverages)    
+Section1 | Section2 | Section3 |Section4 |[Beverages](#beverages)|    
 
 
 
 ## Beverages
 Here is a table of drinks and prices sold in KU cafe.
 
-| Beverages                 | Price(Baht) |
+| Beverages Menu                 | Price(Baht) |
 |:-------------------------|----------|
 | Water               | 7    |
 | Milk Tea(Cha-Yen)              | 10       |
