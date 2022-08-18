@@ -43,9 +43,10 @@
 | Sticky Chicken Wings     | 110      |
 
 
+
 ## Beverages
 | Beverages Menu                 | Price(Baht) |
-|:-------------------------------|-------------:|
+|:-------------------------------|------------:|
 | Baitoey Drink                  | 10          |
 | Cocoa                          | 10          |
 | Chrysanthemum Drink            | 10          |
@@ -60,3 +61,5 @@
 | Tanabodee Yambangyang |Night Food| @Tanabodee-Yambangyang |
 | Siripa Maneein | Lunch | @Siripa-Maneein |
 | Nartnatta Krivichian| Dinner|@PloyyNK|
+
+
