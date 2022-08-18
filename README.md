@@ -14,5 +14,5 @@ Section1 | Section2 | [Dinner](#Dinner) | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Nartnatta | Dinner | @PloyyNK |
+| Nartnatta Krivichian | Dinner | @PloyyNK |
 
