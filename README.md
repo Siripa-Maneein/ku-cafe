@@ -17,7 +17,7 @@
 
 ## Beverages
 | Beverages Menu                 | Price(Baht) |
-|:-------------------------------|------------:|
+|:-------------------------------|-------------:|
 | Baitoey Drink                  | 10          |
 | Cocoa                          | 10          |
 | Chrysanthemum Drink            | 10          |
