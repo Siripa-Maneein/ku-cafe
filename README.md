@@ -2,12 +2,6 @@
 
 Section1 | [Lunch](#Lunch) | Section3 | ...
 
-# KU Cafe Menu
-
-
-## Breakfast
-
-
 ## Lunch 
 | Lunch Menu           |  Price (Baht) |
 |:---------------------|---------------:|
@@ -15,14 +9,6 @@ Section1 | [Lunch](#Lunch) | Section3 | ...
 | Grilled Cheese Sandwich | 25    |
 | Noodle                  | 30    |
 | Tuna Sandwich           | 25    |
-
-## Dinner
-
-
-## Night Food
-
-
-## Beverages
 
 
 ## About Us
