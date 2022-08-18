@@ -1,26 +1,36 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+Section1 | [Lunch](#Lunch) | Section3 | ...
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
 
-## Drive-Thru
+# KU Cafe Menu
 
-**TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
-**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent.
 
-Here is how to create a table using Markdown:
+## Breakfast
 
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+    Item                           Price
+    Fried Grasshoppers (terrible)  -10
+    (use proper Markdown formatting, not literal text like this)
 
-To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
-(or any Markdown summary).
+## Lunch 
+| Lunch Menu           |  Price (Baht) |
+|:---------------------|---------------:|
+| Noodle                  | 30    |
+| Tuna Sandwich           | 25    |
+| Grilled Cheese Sandwich | 25    |
+| Chicken Fried Rice      | 30    |
+
+## Dinner
+
+
+## Night Food
+
+
+## Beverages
+
 
 ## About Us
 
@@ -28,5 +38,5 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Siripa Maneein | Lunch | @Siripa-Maneein |
 
